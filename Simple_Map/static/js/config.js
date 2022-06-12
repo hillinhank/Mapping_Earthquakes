@@ -1,2 +1,0 @@
-const API_KEY = "pk.eyJ1IjoiaGlsbGluaGFuayIsImEiOiJjbDN1cTBydGMwMDVuM2VrY3dqM2kzZG83In0.goovCH6iJyQovWrWglQ0qA"
-const git_access_token = "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"
